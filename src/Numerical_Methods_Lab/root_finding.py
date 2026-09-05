@@ -168,4 +168,3 @@ def Newton_raphson_method(f, x0, df=derivative, tol=1e-5, max_iter=100):
         x_n = x_n1
 
     raise ValueError("Maximum iterations reached without convergence.")
-
