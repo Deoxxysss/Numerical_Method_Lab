@@ -1,0 +1,11 @@
+Numerical_Method_Lab/requirements.txt
+1. numpy==1.21.0
+2. matplotlib==3.4.2
+3. jupyter==1.0.0
+4. pip version>=21.0
+5. python version>=3.7
+
+
+#Which is not specifically required but can be used for better performance
+1. Matplotlib==3.4.2
+2. jupyter==1.0.0
