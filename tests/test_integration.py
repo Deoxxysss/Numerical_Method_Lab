@@ -1,7 +1,7 @@
 import math
 import numpy as np
 import pytest
-from src.Numerical_Methods_Lab.integration import trapzoidal, rectanglel, rectangler, simpson
+from src.numerical_method_lab.integration import trapzoidal, rectanglel, rectangler, simpson
 
 
 # ----------------------------------------------------------------------

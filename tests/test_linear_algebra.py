@@ -1,6 +1,6 @@
 import numpy as np
 import pytest
-from src.Numerical_Methods_Lab.linear_algebra import back_substitution, gaussian_elimination
+from src.numerical_method_lab.linear_algebra import back_substitution, gaussian_elimination
 
 
 # ----------------------------------------------------------------------

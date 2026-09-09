@@ -1,6 +1,6 @@
 import math
 import pytest
-from src.Numerical_Methods_Lab.root_finding import (
+from src.numerical_method_lab.root_finding import (
     bisection_method,
     Newton_raphson_method,
     derivative
