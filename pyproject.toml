@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "numerical-methods-lab"
+version = "0.1.0"
+description = "A collection of numerical methods for root finding, integration, and linear algebra"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {file = "LICENSE"}          # <-- This line adds your MIT license
+dependencies = [
+    "numpy",
+    "matplotlib",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
