@@ -1,5 +1,5 @@
 import numpy as np
-def trapzoidal(f,a,b,n=10000):
+def trapezoidal(f,a,b,n=10000):
     """
     This function implements the trapezoidal rule for numerical integration.
     :param f: The function to integrate
